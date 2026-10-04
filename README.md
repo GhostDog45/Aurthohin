@@ -1,6 +1,6 @@
 # 🎸 Aurthohin (অর্থহীন)
 
-[![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#)   [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#)   [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.png" alt="Aurthohin Band Cover" width="750" />
