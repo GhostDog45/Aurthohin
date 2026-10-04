@@ -31,7 +31,7 @@
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2000
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BFront%5D.jpg" width="300" alt="Trimatrik (ত্রিমাত্রিক) Cover" />
@@ -40,7 +40,7 @@
 ### 📖 About the Album
 Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental debut studio album by Aurthohin. It revolutionized the contemporary Bangladeshi rock music scene with its unprecedented combination of aggressive funk-metal slap-bass riffs, intricate twin-guitar harmonies, and poignant acoustic melodies. The album launched legendary classics such as *"Odbhut Shei Cheleti"* (That Weird Boy), *"Amar Na Bola Kotha"*, and *"Guti"* (Pawn), establishing Bassbaba Sumon as a towering musical visionary in South Asian rock history.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Odbhut Shei Cheleti**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/01%20Odbhut%20Shei%20Cheleti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/01%20Odbhut%20Shei%20Cheleti.flac?download=true)
 - [**02 Amar Na Bola Kotha**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/02%20Amar%20Na%20Bola%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/02%20Amar%20Na%20Bola%20Kotha.flac?download=true)
@@ -55,8 +55,7 @@ Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental
 - [**11 Tepantorer Math Periye**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/11%20Tepantorer%20Math%20Periye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/11%20Tepantorer%20Math%20Periye.flac?download=true)
 - [**12 Trimatrik**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/12%20Trimatrik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/12%20Trimatrik.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -73,7 +72,7 @@ Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2001
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BFront%5D.jpg" width="300" alt="Biborton (বিবর্তন) Cover" />
@@ -82,7 +81,7 @@ Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental
 ### 📖 About the Album
 Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by critics and fans as Aurthohin's most technically intricate and emotionally complete masterpiece from their golden early era. Elevating musicianship with Piklu's virtuosic guitar solos and Sumon's thunderous basslines, the album continued the lore of the debut through beloved sequels *"Adbhut Shei Cheleti 2"* and *"Guti 2"*, while delivering timeless anthems like *"Amar Klanti"*, *"Ghum"*, and *"Mrittur Shohor"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Amar Klanti**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/01%20Amar%20Klanti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/01%20Amar%20Klanti.flac?download=true)
 - [**02 Amar Protichchobi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/02%20Amar%20Protichchobi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/02%20Amar%20Protichchobi.flac?download=true)
@@ -97,8 +96,7 @@ Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by 
 - [**11 Rater Train**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/11%20Rater%20Train.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/11%20Rater%20Train.flac?download=true)
 - [**12 Tumi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/12%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/12%20Tumi.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -114,7 +112,7 @@ Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by 
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2002
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BFront%5D.jpg" width="300" alt="Notun Diner Michile (নতুন দিনের মিছিলে) Cover" />
@@ -123,7 +121,7 @@ Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by 
 ### 📖 About the Album
 Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as one of the most daringly ambitious progressive rock records in South Asian history. Its centerpiece is *"Shaat Din"* (Seven Days)—a staggering 28-minute-and-34-second multi-movement progressive rock opus recounting the final seven days of a condemned death-row prisoner, recognized as the longest track ever recorded in Bangladeshi rock history. The iconic album cover art draws aesthetic inspiration from M.C. Escher's classic graphic work "Eye".
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Notun Diner Michile**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/01%20Notun%20Diner%20Michile.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/01%20Notun%20Diner%20Michile.flac?download=true)
 - [**02 Hoytoba**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/02%20Hoytoba.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/02%20Hoytoba.flac?download=true)
@@ -139,8 +137,7 @@ Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as on
 - [**12 Shat Din V**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/12%20Shat%20Din%20V.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/12%20Shat%20Din%20V.flac?download=true)
 - [**13 Shat Din VI**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/13%20Shat%20Din%20VI.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/13%20Shat%20Din%20VI.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -157,7 +154,7 @@ Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as on
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2003
 - **Record Label:** Mushroom Entertainment
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BFront%5D.jpg" width="300" alt="Dhrubok (ধ্রুবক) Cover" />
@@ -166,7 +163,7 @@ Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as on
 ### 📖 About the Album
 Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked the official debut of drumming and vocal prodigy Raef Al Hasan Rafa alongside Bassbaba Sumon, Piklu, and Shishir Ahmed. Packed with explosive hits like the high-energy anthem *"Chaite Paro"*, *"Morichika"*, *"Guti (from Hell)"*, and the beloved uplifting anthem *"Bijoyer Gan"*, *Dhrubok* cemented Aurthohin's legendary status at the apex of South Asian heavy rock.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Chaite Paro**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/01%20Chaite%20Paro.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/01%20Chaite%20Paro.flac?download=true)
 - [**02 Jodi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/02%20Jodi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/02%20Jodi.flac?download=true)
@@ -183,8 +180,7 @@ Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked th
 - [**13 E Gan Amar**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/13%20E%20Gan%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/13%20E%20Gan%20Amar.flac?download=true)
 - [**14 Shagor O Ekti Chele**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/14%20Shagor%20O%20Ekti%20Chele.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/14%20Shagor%20O%20Ekti%20Chele.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -204,7 +200,7 @@ Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked th
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2008
 - **Record Label:** Mushroom Entertainment
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%2B1%2B%5BFront%5D.jpg" width="300" alt="Aushomapto I (অসমাপ্ত ১) Cover" />
@@ -213,7 +209,7 @@ Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked th
 ### 📖 About the Album
 Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant resurgence after an arduous five-year hiatus during which frontman Bassbaba Sumon endured severe spinal trauma and life-threatening surgeries. Embodying themes of resilience, survival, and rebirth, the record features the legendary aggressive track *"Nikkrishto"*, the hauntingly beautiful ballad *"Aanmoney"*, *"Fitasher Kanna (Aushomapto 3)"*, and the re-imagined *"Chaite Paro 2008"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Aushomapto**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/01.%20Aushomapto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/01.%20Aushomapto.flac?download=true)
 - [**02. Chaite Paro 2008**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/02.%20Chaite%20Paro%202008.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/02.%20Chaite%20Paro%202008.flac?download=true)
@@ -226,8 +222,7 @@ Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant 
 - [**09. Guti (The Final)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/09.%20Guti%20%28The%20Final%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/09.%20Guti%20%28The%20Final%29.flac?download=true)
 - [**10. Fitasher Kanna (Aushomapto 3)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/10.%20Fitasher%20Kanna%20%28Aushomapto%203%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/10.%20Fitasher%20Kanna%20%28Aushomapto%203%29.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -244,7 +239,7 @@ Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant 
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2011
 - **Record Label:** Mushroom Entertainment
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BFront%5D.jpg" width="300" alt="Aushomapto II (অসমাপ্ত ২) Cover" />
@@ -253,7 +248,7 @@ Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant 
 ### 📖 About the Album
 Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfinished II") is one of Aurthohin's greatest commercial and critical triumphs. Deeply influenced by Sumon's courageous ongoing battle against cancer, the record channels raw emotion and uncompromising heavy metal power in tracks like *"Cancer"*, *"Nikrishto 2"*, *"Anmone 2"*, and *"Golper Shuru (Odbhut Shei Cheleti)"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Uru Uru Mon**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/01%20Uru%20Uru%20Mon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/01%20Uru%20Uru%20Mon.flac?download=true)
 - [**02 Alo R Adhar**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/02%20Alo%20R%20Adhar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/02%20Alo%20R%20Adhar.flac?download=true)
@@ -267,8 +262,7 @@ Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfini
 - [**10 Cancer**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/10%20Cancer.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/10%20Cancer.flac?download=true)
 - [**11 Nikrishto 2**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/11%20Nikrishto%202.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/11%20Nikrishto%202.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -284,7 +278,7 @@ Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfini
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2016
 - **Record Label:** Mushroom Entertainment
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/Album%20Covers/Cancerer%20Nishikabyo%20%5BFront%5D.jpg" width="300" alt="Cancerer Nishikabyo (ক্যান্সারের নিশিকাব্য) Cover" />
@@ -293,7 +287,7 @@ Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfini
 ### 📖 About the Album
 Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply poignant, epic concept album chronicling mortality, pain, survival, and the indomitable human spirit during Bassbaba Sumon's most grueling medical treatments. Driven by heavy grooves, intricate bass solos, and poetic depth, it features the monumental title track *"Cancerer Nishikabyo"*, *"Bichoron"*, *"Nikkrishto 3"*, and *"Punorjonmo (Guti 5)"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01 Bichoron**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/01%20Bichoron.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/01%20Bichoron.flac?download=true)
 - [**02 Chaite Paro 3 (You Have to Bujhte**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/02%20Chaite%20Paro%203%20%28You%20Have%20to%20Bujhte.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/02%20Chaite%20Paro%203%20%28You%20Have%20to%20Bujhte.flac?download=true)
@@ -304,8 +298,7 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 - [**07 Adbhut Shob Chhelegulor Golpo (fe**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/07%20Adbhut%20Shob%20Chhelegulor%20Golpo%20%28fe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/07%20Adbhut%20Shob%20Chhelegulor%20Golpo%20%28fe.flac?download=true)
 - [**08 Cancerer Nishikabyo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/08%20Cancerer%20Nishikabyo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/08%20Cancerer%20Nishikabyo.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
@@ -317,14 +310,14 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 ## 8. Miscellaneous (Singles & Standalone Tracks)
 
 - **Band:** Aurthohin (অর্থহীন)
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 ### 📖 About the Releases
 Crucial standalone singles and landmark revisitations that defined key moments in Aurthohin's musical history:
 - **Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)**: The aggressive, groove-laden modern revival of the seminal *Nikkrishto* saga with crushing guitar work and signature aggressive basslines.
 - **Epitaph**: One of the most beloved, heartfelt acoustic rock ballads in Bangladeshi music history, cherished by generations of fans.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true)
 - [**Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Epitaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Epitaph.flac?download=true)
