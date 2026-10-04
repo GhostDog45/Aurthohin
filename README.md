@@ -1,4 +1,4 @@
-# 🎸 Aurthohin (অর্থহীন) - Complete Studio Discography
+# 🎸 Aurthohin (অর্থহীন)
 
 [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Total Tracks - 82 Songs](https://img.shields.io/badge/Total%20Tracks-82%20FLACs-2ea44f?style=for-the-badge&logo=audiomack&logoColor=white)](#)
 
