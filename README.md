@@ -55,6 +55,16 @@ Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental
 - [**11 Tepantorer Math Periye**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/11%20Tepantorer%20Math%20Periye.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/11%20Tepantorer%20Math%20Periye.flac?download=true)
 - [**12 Trimatrik**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/12%20Trimatrik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Trimatrik/12%20Trimatrik.flac?download=true)
 
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BBooklet%5D.jpg" width="300" alt="2. Booklet & Lyrics" /><br><sub><b>2. Booklet & Lyrics</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BInlay-Front%5D.jpg" width="300" alt="3. Inlay (Front)" /><br><sub><b>3. Inlay (Front)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Trimatrik/Album%20Covers/Trimatrik%20%5BBack%5D_2.jpg" width="300" alt="7. Back Cover (Alternative)" /><br><sub><b>7. Back Cover (Alternative)</b></sub> |  |
+
 ---
 
 <a id="2-biborton"></a>
@@ -86,6 +96,15 @@ Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by 
 - [**10 Probas Theke**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/10%20Probas%20Theke.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/10%20Probas%20Theke.flac?download=true)
 - [**11 Rater Train**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/11%20Rater%20Train.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/11%20Rater%20Train.flac?download=true)
 - [**12 Tumi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/12%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Biborton/12%20Tumi.flac?download=true)
+
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BInset-1%5D.jpg" width="300" alt="2. Booklet / Inset (Part 1)" /><br><sub><b>2. Booklet / Inset (Part 1)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BInset-2%5D.jpg" width="300" alt="3. Booklet / Inset (Part 2)" /><br><sub><b>3. Booklet / Inset (Part 2)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Biborton/Album%20Covers/Biborton%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
 ---
 
@@ -119,6 +138,16 @@ Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as on
 - [**11 Shat Din IV**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/11%20Shat%20Din%20IV.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/11%20Shat%20Din%20IV.flac?download=true)
 - [**12 Shat Din V**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/12%20Shat%20Din%20V.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/12%20Shat%20Din%20V.flac?download=true)
 - [**13 Shat Din VI**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/13%20Shat%20Din%20VI.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/13%20Shat%20Din%20VI.flac?download=true)
+
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BInset-Front%5D.jpg" width="300" alt="5. Inset (Front)" /><br><sub><b>5. Inset (Front)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
 
@@ -154,6 +183,19 @@ Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked th
 - [**13 E Gan Amar**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/13%20E%20Gan%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/13%20E%20Gan%20Amar.flac?download=true)
 - [**14 Shagor O Ekti Chele**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/14%20Shagor%20O%20Ekti%20Chele.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Dhrubok/14%20Shagor%20O%20Ekti%20Chele.flac?download=true)
 
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BArtwork.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-1%5D.jpg" width="300" alt="3. Inset 1" /><br><sub><b>3. Inset 1</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-2%5D.jpg" width="300" alt="4. Inset 2" /><br><sub><b>4. Inset 2</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-3%5D.jpg" width="300" alt="5. Inset 3" /><br><sub><b>5. Inset 3</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-4%5D.jpg" width="300" alt="6. Inset 4" /><br><sub><b>6. Inset 4</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-5%5D.jpg" width="300" alt="7. Inset 5" /><br><sub><b>7. Inset 5</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-6%5D.jpg" width="300" alt="8. Inset 6" /><br><sub><b>8. Inset 6</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BInset-7%5D.jpg" width="300" alt="9. Inset 7" /><br><sub><b>9. Inset 7</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/aurthohin-3.jpg" width="300" alt="10. Band Photography" /><br><sub><b>10. Band Photography</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/profiles.jpg" width="300" alt="11. Member Profiles & Credits" /><br><sub><b>11. Member Profiles & Credits</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BCD%5D.jpg" width="300" alt="12. Compact Disc (CD)" /><br><sub><b>12. Compact Disc (CD)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Dhrubok/Album%20Covers/Dhrubok%20%5BBack%5D.jpg" width="300" alt="13. Back Cover" /><br><sub><b>13. Back Cover</b></sub> |  |
+
 ---
 
 <a id="5-aushomapto-i"></a>
@@ -183,6 +225,16 @@ Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant 
 - [**08. Aanmoney**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/08.%20Aanmoney.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/08.%20Aanmoney.flac?download=true)
 - [**09. Guti (The Final)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/09.%20Guti%20%28The%20Final%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/09.%20Guti%20%28The%20Final%29.flac?download=true)
 - [**10. Fitasher Kanna (Aushomapto 3)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/10.%20Fitasher%20Kanna%20%28Aushomapto%203%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/10.%20Fitasher%20Kanna%20%28Aushomapto%203%29.flac?download=true)
+
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%2B1%2B%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%201%5D.jpg" width="300" alt="2. Booklet / Inset 1" /><br><sub><b>2. Booklet / Inset 1</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%202%5D.jpg" width="300" alt="3. Booklet / Inset 2" /><br><sub><b>3. Booklet / Inset 2</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%203%5D.jpg" width="300" alt="4. Booklet / Inset 3" /><br><sub><b>4. Booklet / Inset 3</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%205%5D.jpg" width="300" alt="5. Booklet / Inset 4" /><br><sub><b>5. Booklet / Inset 4</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%2B1%2B%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
 
@@ -215,6 +267,15 @@ Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfini
 - [**10 Cancer**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/10%20Cancer.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/10%20Cancer.flac?download=true)
 - [**11 Nikrishto 2**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/11%20Nikrishto%202.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/11%20Nikrishto%202.flac?download=true)
 
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BInset%20-%201%5D.jpg" width="300" alt="2. Booklet / Inset 1" /><br><sub><b>2. Booklet / Inset 1</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BInset%20-%202%5D.jpg" width="300" alt="3. Booklet / Inset 2" /><br><sub><b>3. Booklet / Inset 2</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BInset%20-%203%5D.jpg" width="300" alt="4. Booklet / Inset 3" /><br><sub><b>4. Booklet / Inset 3</b></sub> |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Aurthohin%20%28Discography%20FLAC%29/Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
+
 ---
 
 <a id="7-cancerer-nishikabyo"></a>
@@ -242,6 +303,13 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 - [**06 Punorjonmo (Guti 5)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/06%20Punorjonmo%20%28Guti%205%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/06%20Punorjonmo%20%28Guti%205%29.flac?download=true)
 - [**07 Adbhut Shob Chhelegulor Golpo (fe**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/07%20Adbhut%20Shob%20Chhelegulor%20Golpo%20%28fe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/07%20Adbhut%20Shob%20Chhelegulor%20Golpo%20%28fe.flac?download=true)
 - [**08 Cancerer Nishikabyo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/08%20Cancerer%20Nishikabyo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/08%20Cancerer%20Nishikabyo.flac?download=true)
+
+### 🖼️ Album Artwork & Packaging Scans
+*(Featured in order of physical release: Front Cover → Booklet & Insets → Disc → Back Cover)*
+
+| | |
+| :---: | :---: |
+| <img src="Aurthohin%20%28Discography%20FLAC%29/Cancerer%20Nishikabyo/Album%20Covers/Cancerer%20Nishikabyo%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
