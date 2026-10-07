@@ -379,7 +379,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 <a id="bassbaba-sumon-solo-discography"></a>
 # 👑 [Bassbaba Sumon](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon)
 
-> Beyond Aurthohin's band discography, iconic frontman and bassist **Saidus Salehin Sumon (Bassbaba Sumon)** created an extraordinary solo legacy. Preserved in lossless FLAC format in the dedicated [**GhostDog45/Mixed-Albums**](https://github.com/GhostDog45/Mixed-Albums) archive, every album and standalone single is detailed below with complete physical packaging scans and direct one-tap downloads.
+> Beyond Aurthohin, iconic frontman and bassist **Saidus Salehin Sumon (Bassbaba Sumon)** created an extraordinary solo legacy. He not only grow as an Phoenix but also helped upbringing many musicians to this current Legacy.
 
 ---
 
