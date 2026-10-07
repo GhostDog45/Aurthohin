@@ -24,9 +24,9 @@
 7. [Cancerer Nishikabyo (ক্যান্সারের নিশিকাব্য) (2016)](#7-cancerer-nishikabyo)
 8. [Phoenixer Diary 1 (ফিনিক্সের ডায়েরি ১) (2022)](#8-phoenixer-diary-1-2022)
 9. [Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)](#9-phoenixer-diary-2-2024)
-10. [Miscellaneous (Singles & Standalone Tracks)](#10-miscellaneous-singles--standalone-tracks)
+10. [Singles](#10-singles)
 
-### 👑 Bassbaba Sumon Solo Discography (Archived in Mixed Albums)
+### 👑 Bassbaba Sumon Discography (Mixed Albums)
 11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#11-sumon-o-aurthohin-1997)
 12. [Megher Deshe (মেঘের দেশে) (2005)](#12-megher-deshe-2005)
 13. [Boka Manushta (বোকা মানুষটা) (2007)](#13-boka-manushta-2007)
@@ -362,17 +362,11 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="10-miscellaneous-singles--standalone-tracks"></a>
-## 10. Miscellaneous (Singles & Standalone Tracks)
+<a id="10-singles"></a>
+## 10. Singles
 
 - **Band:** Aurthohin (অর্থহীন)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
-
-### 📖 About the Releases
-Crucial standalone singles and landmark revisitations that defined key moments in Aurthohin's musical history:
-- **Amjonota**: A hard-hitting, socially conscious rock single capturing the voice and struggles of the common people.
-- **Karon Tumi Omanush (Nikkrishto Revisited)**: The aggressive, groove-laden modern revival of the seminal *Nikkrishto* saga with crushing guitar work and signature aggressive basslines.
-- **Epitaph**: One of the most beloved, heartfelt acoustic rock ballads in Bangladeshi music history, cherished by generations of fans.
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -383,16 +377,14 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 ---
 
 <a id="bassbaba-sumon-solo-discography"></a>
-# 👑 Bassbaba Sumon
-
-[![Explore Full Solo Catalog on Mixed Albums](https://img.shields.io/badge/Explore%20Full%20Solo%20Catalog-Mixed%20Albums%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/Mixed-Albums)
+# 👑 [Bassbaba Sumon](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon)
 
 > Beyond Aurthohin's band discography, iconic frontman and bassist **Saidus Salehin Sumon (Bassbaba Sumon)** created an extraordinary solo legacy. Preserved in lossless FLAC format in the dedicated [**GhostDog45/Mixed-Albums**](https://github.com/GhostDog45/Mixed-Albums) archive, every album and standalone single is detailed below with complete physical packaging scans and direct one-tap downloads.
 
 ---
 
 <a id="11-sumon-o-aurthohin-1997"></a>
-## 11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
+## 11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 1997
@@ -474,7 +466,7 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 ---
 
 <a id="13-boka-manushta-2007"></a>
-## 13. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/8e18a290bb41cd2fb7b8e53dafb5c7ada196f929/Bassbaba%20Sumon/Boka%20Manushta)
+## 13. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Boka%20Manushta)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
@@ -558,17 +550,10 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 ---
 
 <a id="15-bassbaba-sumon--standalone-solo-singles"></a>
-## 15. Bassbaba Sumon — Standalone Solo Singles
+## 15. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon)
 
 - **Artist:** Bassbaba Sumon
-- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#5-singles--standalone-releases)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
-
-### 📖 About the Releases
-Rare standalone studio singles and special releases from Bassbaba Sumon:
-- **Boyosh Holo Amar**: A deeply reflective personal ballad examining time and mortality.
-- **Oniyomer Golpo**: A hard-hitting narrative track powered by intricate bass grooves.
-- **Purano Shei Diner Kotha**: A poignant acoustic re-imagination honoring tradition and timeless memories.
 
 ### 🎵 Tracklist (One-Tap Download)
 
