@@ -397,7 +397,6 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 1997
 - **Record Label:** Soundtek
-- **Archive Repository:**
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
@@ -436,12 +435,11 @@ Released in 1997 before the formal establishment of the band Aurthohin, *Sumon O
 ---
 
 <a id="12-megher-deshe-2005"></a>
-## 12. Megher Deshe (মেঘের দেশে) (2005)
+## 12. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Megher%20Deshe)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2005
 - **Record Label:** Soundtek
-- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#2-megher-deshe-2005)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
@@ -481,7 +479,6 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
 - **Record Label:** G-Series
-- **Archive Repository:** 
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
@@ -522,12 +519,11 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 ---
 
 <a id="14-ekhon-ami-2007"></a>
-## 14. Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)
+## 14. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Ekhon%20Ami)
 
 - **Artists:** Bassbaba Sumon & Anila Naz Chowdhury
 - **Release Year:** 2007
 - **Record Label:** G-Series
-- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#4-ekhon-ami-2007)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
