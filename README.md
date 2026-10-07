@@ -21,8 +21,10 @@
 5. [Aushomapto I (অসমাপ্ত ১) (2008)](#5-aushomapto-i)
 6. [Aushomapto II (অসমাপ্ত ২) (2011)](#6-aushomapto-ii)
 7. [Cancerer Nishikabyo (ক্যান্সারের নিশিকাব্য) (2016)](#7-cancerer-nishikabyo)
-8. [Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)](#8-phoenixer-diary-2-2024)
-9. [Miscellaneous (Singles & Standalone Tracks)](#9-miscellaneous-singles--standalone-tracks)
+8. [Phoenixer Diary 1 (ফিনিক্সের ডায়েরি ১) (2022)](#8-phoenixer-diary-1-2022)
+9. [Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)](#9-phoenixer-diary-2-2024)
+10. [Miscellaneous (Singles & Standalone Tracks)](#10-miscellaneous-singles--standalone-tracks)
+11. [Bassbaba Sumon — Solo Discography & Side Projects](#11-bassbaba-sumon--solo-discography--side-projects)
 
 ---
 
@@ -307,8 +309,31 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 
 ---
 
-<a id="8-phoenixer-diary-2-2024"></a>
-## 8. Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)
+<a id="8-phoenixer-diary-1-2022"></a>
+## 8. Phoenixer Diary 1 (ফিনিক্সের ডায়েরি ১) (2022)
+
+- **Band:** Aurthohin (অর্থহীন)
+- **Release Year:** 2022
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") heralded the long-awaited resurrection of Aurthohin following Bassbaba Sumon's prolonged battle with severe medical treatments and life-threatening surgeries. Symbolic of the mythical phoenix rising unbowed from the ashes, the album delivers electrifying grooves, raw emotion, and sheer rock power across tracks like *"Phoenix 1"*, *"Aajibon"*, *"Bidrohi"*, *"Amar E Gaan"*, and *"Jokhon Tumi Nai"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Aajibon**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Aajibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Aajibon.flac?download=true)
+- [**Aurthohin - Adbhut**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Adbhut.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Adbhut.flac?download=true)
+- [**Aurthohin - Amar E Gaan**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Amar%20E%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Amar%20E%20Gaan.flac?download=true)
+- [**Aurthohin - Bidrohi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Bidrohi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Bidrohi.flac?download=true)
+- [**Aurthohin - Jokhon Tumi Nai**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Jokhon%20Tumi%20Nai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Jokhon%20Tumi%20Nai.flac?download=true)
+- [**Aurthohin - Nithor**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Nithor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Nithor.flac?download=true)
+- [**Aurthohin - Phoenix 1**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Phoenix%201.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Phoenix%201.flac?download=true)
+- [**Aurthohin - Shopnogulo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Shopnogulo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Shopnogulo.flac?download=true)
+
+---
+
+<a id="9-phoenixer-diary-2-2024"></a>
+## 9. Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)
 
 - **Band:** Aurthohin (অর্থহীন)
 - **Release Year:** 2024
@@ -330,8 +355,8 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 
 ---
 
-<a id="9-miscellaneous-singles--standalone-tracks"></a>
-## 9. Miscellaneous (Singles & Standalone Tracks)
+<a id="10-miscellaneous-singles--standalone-tracks"></a>
+## 10. Miscellaneous (Singles & Standalone Tracks)
 
 - **Band:** Aurthohin (অর্থহীন)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -347,6 +372,132 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - [**Amjonota**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Aurthohin%20-%20Amjonota.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Aurthohin%20-%20Amjonota.flac?download=true)
 - [**Karon Tumi Omanush (Nikkrishto Revisited)**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true)
 - [**Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Epitaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Epitaph.flac?download=true)
+
+---
+
+---
+
+<a id="11-bassbaba-sumon--solo-discography--side-projects"></a>
+## 11. Bassbaba Sumon — Solo Discography & Side Projects
+
+[![Explore Full Solo Catalog on Mixed Albums](https://img.shields.io/badge/Explore%20Full%20Solo%20Catalog-Mixed%20Albums%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/Mixed-Albums)
+
+> **Saidus Salehin Sumon (Bassbaba Sumon)** has shaped the sound and soul of Bangladeshi rock both as Aurthohin's fearless leader and through an extraordinary solo career. Spanning foundational pre-Aurthohin rock experiments, timeless acoustic ballads, generational duets, and rare standalone singles, his solo works are archived in lossless FLAC format in the dedicated [**Mixed Albums**](https://github.com/GhostDog45/Mixed-Albums) repository. All tracks below can be downloaded with a single tap directly from the archive.
+
+---
+
+### 💿 1. Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)
+- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<details>
+<summary><b>🎵 Click to expand Tracklist (15 Tracks - One-Tap Download)</b></summary>
+<br>
+
+- [**Bassbaba Sumon - Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Aurthohin.flac?download=true)
+- [**Bassbaba Sumon - Ekti Nokhkhotrer Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Ekti%20Nokhkhotrer%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Ekti%20Nokhkhotrer%20Gaan.flac?download=true)
+- [**Bassbaba Sumon - Hyenar Ottohashi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Hyenar%20Ottohashi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Hyenar%20Ottohashi.flac?download=true)
+- [**Bassbaba Sumon - Jokhon Charidike**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Jokhon%20Charidike.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Jokhon%20Charidike.flac?download=true)
+- [**Bassbaba Sumon - Kono Ek Nijhum Raate**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Kono%20Ek%20Nijhum%20Raate.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Kono%20Ek%20Nijhum%20Raate.flac?download=true)
+- [**Bassbaba Sumon - Kono Ek Nijhum Raate 2**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Kono%20Ek%20Nijhum%20Raate%202.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Kono%20Ek%20Nijhum%20Raate%202.flac?download=true)
+- [**Bassbaba Sumon - Majh Raate**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Majh%20Raate.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Majh%20Raate.flac?download=true)
+- [**Bassbaba Sumon - Mission Accomplished**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Mission%20Accomplished.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Mission%20Accomplished.flac?download=true)
+- [**Bassbaba Sumon - Mone Koro**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Mone%20Koro.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Mone%20Koro.flac?download=true)
+- [**Bassbaba Sumon - Shadhinota**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shadhinota.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shadhinota.flac?download=true)
+- [**Bassbaba Sumon - Shey**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shey.flac?download=true)
+- [**Bassbaba Sumon - Shopner Daar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shopner%20Daar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Shopner%20Daar.flac?download=true)
+- [**Bassbaba Sumon - Tahader Kotha 71**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tahader%20Kotha%2071.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tahader%20Kotha%2071.flac?download=true)
+- [**Bassbaba Sumon - Tarar Pane**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tarar%20Pane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tarar%20Pane.flac?download=true)
+- [**Bassbaba Sumon - Tomar Jonno Noy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20Noy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20Noy.flac?download=true)
+
+</details>
+
+---
+
+### 💿 2. Megher Deshe (মেঘের দেশে) (2005)
+- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#2-megher-deshe-2005)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<details>
+<summary><b>🎵 Click to expand Tracklist (10 Tracks - One-Tap Download)</b></summary>
+<br>
+
+- [**Bassbaba Sumon - Amar Bagan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Amar%20Bagan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Amar%20Bagan.flac?download=true)
+- [**Bassbaba Sumon - Bohu Dure**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Bohu%20Dure.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Bohu%20Dure.flac?download=true)
+- [**Bassbaba Sumon - Ei Guitar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Ei%20Guitar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Ei%20Guitar.flac?download=true)
+- [**Bassbaba Sumon - Hoytoba Bhalobasha**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Hoytoba%20Bhalobasha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Hoytoba%20Bhalobasha.flac?download=true)
+- [**Bassbaba Sumon - Kabita Prarthona O Protigga**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Kabita%20Prarthona%20O%20Protigga.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Kabita%20Prarthona%20O%20Protigga.flac?download=true)
+- [**Bassbaba Sumon - Metho Poth**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Metho%20Poth.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Metho%20Poth.flac?download=true)
+- [**Bassbaba Sumon - Nil Akasher Pothe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Nil%20Akasher%20Pothe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Nil%20Akasher%20Pothe.flac?download=true)
+- [**Bassbaba Sumon - Shopner Deshe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Shopner%20Deshe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Shopner%20Deshe.flac?download=true)
+- [**Bassbaba Sumon - Tomar Jonno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true)
+- [**Bassbaba Sumon - Tomar Jonno - J Mix**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20-%20J%20Mix.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20-%20J%20Mix.flac?download=true)
+
+</details>
+
+---
+
+### 💿 3. Boka Manushta (বোকা মানুষটা) (2007)
+- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#3-boka-manushta-2007)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<details>
+<summary><b>🎵 Click to expand Tracklist (17 Tracks - One-Tap Download)</b></summary>
+<br>
+
+- [**Bassbaba Sumon - Amar Golpo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Amar%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Amar%20Golpo.flac?download=true)
+- [**Bassbaba Sumon - Boka Manushta O Ek Shurer Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan.flac?download=true)
+- [**Bassbaba Sumon - Brishti**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Brishti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Brishti.flac?download=true)
+- [**Bassbaba Sumon - Ditio Jibon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ditio%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ditio%20Jibon.flac?download=true)
+- [**Bassbaba Sumon - Gaanwala**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Gaanwala.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Gaanwala.flac?download=true)
+- [**Bassbaba Sumon - Ghum Ashena**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ghum%20Ashena.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ghum%20Ashena.flac?download=true)
+- [**Bassbaba Sumon - Ghumparani Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ghumparani%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ghumparani%20Gaan.flac?download=true)
+- [**Bassbaba Sumon - Jhor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Jhor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Jhor.flac?download=true)
+- [**Bassbaba Sumon - Ke_**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ke_.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Ke_.flac?download=true)
+- [**Bassbaba Sumon - Neer**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Neer.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Neer.flac?download=true)
+- [**Bassbaba Sumon - Obhiman**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Obhiman.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Obhiman.flac?download=true)
+- [**Bassbaba Sumon - Phoolgulo Shob Gelo Kothae**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Phoolgulo%20Shob%20Gelo%20Kothae.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Phoolgulo%20Shob%20Gelo%20Kothae.flac?download=true)
+- [**Bassbaba Sumon - Porajoy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Porajoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Porajoy.flac?download=true)
+- [**Bassbaba Sumon - Protigga**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Protigga.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Protigga.flac?download=true)
+- [**Bassbaba Sumon - Shesh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shesh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shesh.flac?download=true)
+- [**Bassbaba Sumon - Shohor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true)
+- [**Bassbaba Sumon - Tobuo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Tobuo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Tobuo.flac?download=true)
+
+</details>
+
+---
+
+### 💿 4. Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)
+- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#4-ekhon-ami-2007)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<details>
+<summary><b>🎵 Click to expand Tracklist (11 Tracks - One-Tap Download)</b></summary>
+<br>
+
+- [**Anila - Jokhon Charidike**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Jokhon%20Charidike.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Jokhon%20Charidike.flac?download=true)
+- [**Anila - Noshto Neer**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Noshto%20Neer.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Noshto%20Neer.flac?download=true)
+- [**Anila - Tirjok**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Tirjok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Tirjok.flac?download=true)
+- [**Bassbaba Sumon - Ekhon Ami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Ekhon%20Ami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Ekhon%20Ami.flac?download=true)
+- [**Bassbaba Sumon - Gaibona**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Gaibona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Gaibona.flac?download=true)
+- [**Bassbaba Sumon - Ghum Parie Dio**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Ghum%20Parie%20Dio.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Ghum%20Parie%20Dio.flac?download=true)
+- [**Bassbaba Sumon - Onneshon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Onneshon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Onneshon.flac?download=true)
+- [**Bassbaba Sumon - Shobar Jonne Tumi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shobar%20Jonne%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shobar%20Jonne%20Tumi.flac?download=true)
+- [**Bassbaba Sumon - Shobar Jonne Tumi ？**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shobar%20Jonne%20Tumi%20%EF%BC%9F.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shobar%20Jonne%20Tumi%20%EF%BC%9F.flac?download=true)
+- [**Bassbaba Sumon - Shopnogulo Tomar Moto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true)
+- [**Bassbaba Sumon - Tomar Jonno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true)
+
+</details>
+
+---
+
+### 💿 5. Standalone Solo Singles
+- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#5-singles--standalone-releases)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+- [**Bassbaba Sumon - Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
+- [**Bassbaba Sumon - Oniyomer Golpo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true)
+- [**Bassbaba Sumon - Purano Shei Diner Kotha**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true)
 
 ---
 
