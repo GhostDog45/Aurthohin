@@ -26,7 +26,7 @@
 9. [Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)](#9-phoenixer-diary-2-2024)
 10. [Singles](#10-singles)
 
-### 👑 Bassbaba Sumon Discography (Mixed Albums)
+### 👑 Bassbaba Sumon Discography
 11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#11-sumon-o-aurthohin-1997)
 12. [Megher Deshe (মেঘের দেশে) (2005)](#12-megher-deshe-2005)
 13. [Boka Manushta (বোকা মানুষটা) (2007)](#13-boka-manushta-2007)
