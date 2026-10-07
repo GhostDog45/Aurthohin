@@ -14,6 +14,7 @@
 
 ## 📑 Discography Index
 
+### 🎸 Aurthohin Band Discography
 1. [Trimatrik (ত্রিমাত্রিক) (2000)](#1-trimatrik)
 2. [Biborton (বিবর্তন) (2001)](#2-biborton)
 3. [Notun Diner Michile (নতুন দিনের মিছিলে) (2002)](#3-notun-diner-michile)
@@ -24,7 +25,13 @@
 8. [Phoenixer Diary 1 (ফিনিক্সের ডায়েরি ১) (2022)](#8-phoenixer-diary-1-2022)
 9. [Phoenixer Diary 2 (ফিনিক্সের ডায়েরি ২) (2024)](#9-phoenixer-diary-2-2024)
 10. [Miscellaneous (Singles & Standalone Tracks)](#10-miscellaneous-singles--standalone-tracks)
-11. [Bassbaba Sumon — Solo Discography & Side Projects](#11-bassbaba-sumon--solo-discography--side-projects)
+
+### 👑 Bassbaba Sumon Solo Discography (Archived in Mixed Albums)
+11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#11-sumon-o-aurthohin-1997)
+12. [Megher Deshe (মেঘের দেশে) (2005)](#12-megher-deshe-2005)
+13. [Boka Manushta (বোকা মানুষটা) (2007)](#13-boka-manushta-2007)
+14. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#14-ekhon-ami-2007)
+15. [Bassbaba Sumon — Standalone Solo Singles](#15-bassbaba-sumon--standalone-solo-singles)
 
 ---
 
@@ -375,24 +382,32 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 
 ---
 
----
-
-<a id="11-bassbaba-sumon--solo-discography--side-projects"></a>
-## 11. Bassbaba Sumon — Solo Discography & Side Projects
+<a id="bassbaba-sumon-solo-discography"></a>
+# 👑 Bassbaba Sumon — Solo Discography & Projects
 
 [![Explore Full Solo Catalog on Mixed Albums](https://img.shields.io/badge/Explore%20Full%20Solo%20Catalog-Mixed%20Albums%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/Mixed-Albums)
 
-> **Saidus Salehin Sumon (Bassbaba Sumon)** has shaped the sound and soul of Bangladeshi rock both as Aurthohin's fearless leader and through an extraordinary solo career. Spanning foundational pre-Aurthohin rock experiments, timeless acoustic ballads, generational duets, and rare standalone singles, his solo works are archived in lossless FLAC format in the dedicated [**Mixed Albums**](https://github.com/GhostDog45/Mixed-Albums) repository. All tracks below can be downloaded with a single tap directly from the archive.
+> Beyond Aurthohin's band discography, iconic frontman and bassist **Saidus Salehin Sumon (Bassbaba Sumon)** created an extraordinary solo legacy. Preserved in lossless FLAC format in the dedicated [**GhostDog45/Mixed-Albums**](https://github.com/GhostDog45/Mixed-Albums) archive, every album and standalone single is detailed below with complete physical packaging scans and direct one-tap downloads.
 
 ---
 
-### 💿 1. Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)
-- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
+<a id="11-sumon-o-aurthohin-1997"></a>
+## 11. Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)
+
+- **Artist:** Bassbaba Sumon
+- **Release Year:** 1997
+- **Record Label:** Soundtek
+- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
-<details>
-<summary><b>🎵 Click to expand Tracklist (15 Tracks - One-Tap Download)</b></summary>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BFront%5D.jpg" width="300" alt="Sumon O Aurthohin Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 1997 before the formal establishment of the band Aurthohin, *Sumon O Aurthohin* is the seminal solo foundation that ignited the entire Aurthohin rock phenomenon. Featuring raw, authentic, foundational versions of classic anthems like *"Aurthohin"*, *"Kono Ek Nijhum Raate"*, and *"Hyenar Ottohashi"*, this landmark album is preserved with complete physical scans and lossless master audio.
+
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Bassbaba Sumon - Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Aurthohin.flac?download=true)
 - [**Bassbaba Sumon - Ekti Nokhkhotrer Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Ekti%20Nokhkhotrer%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Ekti%20Nokhkhotrer%20Gaan.flac?download=true)
@@ -410,17 +425,33 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - [**Bassbaba Sumon - Tarar Pane**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tarar%20Pane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tarar%20Pane.flac?download=true)
 - [**Bassbaba Sumon - Tomar Jonno Noy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20Noy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20Noy.flac?download=true)
 
-</details>
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Hyenar Ottohashi Artwork" /><br><sub><b>5. Hyenar Ottohashi Artwork</b></sub> |  |
 
 ---
 
-### 💿 2. Megher Deshe (মেঘের দেশে) (2005)
-- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#2-megher-deshe-2005)
+<a id="12-megher-deshe-2005"></a>
+## 12. Megher Deshe (মেঘের দেশে) (2005)
+
+- **Artist:** Bassbaba Sumon
+- **Release Year:** 2005
+- **Record Label:** Soundtek
+- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#2-megher-deshe-2005)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
-<details>
-<summary><b>🎵 Click to expand Tracklist (10 Tracks - One-Tap Download)</b></summary>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BFront%5D.jpg" width="300" alt="Megher Deshe Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's introspective acoustic masterpiece. Driven by gentle melodic acoustic guitar arrangements, evocative storytelling, and heartfelt vocal performances, the album spawned immortal fan favorites such as *"Ei Guitar"*, *"Metho Poth"*, and *"Hoytoba Bhalobasha"*.
+
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Bassbaba Sumon - Amar Bagan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Amar%20Bagan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Amar%20Bagan.flac?download=true)
 - [**Bassbaba Sumon - Bohu Dure**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Bohu%20Dure.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Bohu%20Dure.flac?download=true)
@@ -433,17 +464,34 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - [**Bassbaba Sumon - Tomar Jonno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true)
 - [**Bassbaba Sumon - Tomar Jonno - J Mix**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20-%20J%20Mix.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Bassbaba%20Sumon%20-%20Tomar%20Jonno%20-%20J%20Mix.flac?download=true)
 
-</details>
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/folder.jpg" width="300" alt="8. Cover Slipcase" /><br><sub><b>8. Cover Slipcase</b></sub> |
 
 ---
 
-### 💿 3. Boka Manushta (বোকা মানুষটা) (2007)
-- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#3-boka-manushta-2007)
+<a id="13-boka-manushta-2007"></a>
+## 13. Boka Manushta (বোকা মানুষটা) (2007)
+
+- **Artist:** Bassbaba Sumon
+- **Release Year:** 2007
+- **Record Label:** G-Series
+- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#3-boka-manushta-2007)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
-<details>
-<summary><b>🎵 Click to expand Tracklist (17 Tracks - One-Tap Download)</b></summary>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BFront%5D.jpg" width="300" alt="Boka Manushta Album Cover" />
+</p>
+
+### 📖 About the Album
+*Boka Manushta* ("The Foolish Person") is widely revered as Bassbaba Sumon's greatest solo concept album. Comprising 17 tracks of deeply personal acoustic songwriting, philosophical reflections on life, and poignant bass poetry, it features generational masterworks such as the title track *"Boka Manushta O Ek Shurer Gaan"*, *"Ditio Jibon"*, *"Gaanwala"*, *"Ghum Ashena"*, and *"Shohor"*.
+
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Bassbaba Sumon - Amar Golpo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Amar%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Amar%20Golpo.flac?download=true)
 - [**Bassbaba Sumon - Boka Manushta O Ek Shurer Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Boka%20Manushta%20O%20Ek%20Shurer%20Gaan.flac?download=true)
@@ -463,17 +511,33 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - [**Bassbaba Sumon - Shohor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true)
 - [**Bassbaba Sumon - Tobuo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Tobuo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Tobuo.flac?download=true)
 
-</details>
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 
 ---
 
-### 💿 4. Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)
-- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#4-ekhon-ami-2007)
+<a id="14-ekhon-ami-2007"></a>
+## 14. Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)
+
+- **Artists:** Bassbaba Sumon & Anila Naz Chowdhury
+- **Release Year:** 2007
+- **Record Label:** G-Series
+- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#4-ekhon-ami-2007)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
-<details>
-<summary><b>🎵 Click to expand Tracklist (11 Tracks - One-Tap Download)</b></summary>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="Ekhon Ami Album Cover" />
+</p>
+
+### 📖 About the Album
+A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Sumon with vocalist Anila Naz Chowdhury. Characterized by heavenly vocal harmonies, delicate piano and acoustic melodies, and deep emotional resonance, the album delivered classics including *"Ekhon Ami"*, *"Gaibona"*, *"Shopnogulo Tomar Moto"*, and Anila's haunting solos *"Noshto Neer"* and *"Jokhon Charidike"*.
+
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Anila - Jokhon Charidike**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Jokhon%20Charidike.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Jokhon%20Charidike.flac?download=true)
 - [**Anila - Noshto Neer**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Noshto%20Neer.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Anila%20-%20Noshto%20Neer.flac?download=true)
@@ -487,13 +551,30 @@ Crucial standalone singles and landmark revisitations that defined key moments i
 - [**Bassbaba Sumon - Shopnogulo Tomar Moto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true)
 - [**Bassbaba Sumon - Tomar Jonno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Bassbaba%20Sumon%20-%20Tomar%20Jonno.flac?download=true)
 
-</details>
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="1. Cover Artwork" /><br><sub><b>1. Cover Artwork</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="2. Outer Slipcase (Front & Back)" /><br><sub><b>2. Outer Slipcase (Front & Back)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Tray Inlay (Part 1)" /><br><sub><b>4. Tray Inlay (Part 1)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Tray Inlay (Part 2)" /><br><sub><b>5. Tray Inlay (Part 2)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ---
 
-### 💿 5. Standalone Solo Singles
-- **Archive Repo:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#5-singles--standalone-releases)
+<a id="15-bassbaba-sumon--standalone-solo-singles"></a>
+## 15. Bassbaba Sumon — Standalone Solo Singles
+
+- **Artist:** Bassbaba Sumon
+- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#5-singles--standalone-releases)
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Releases
+Rare standalone studio singles and special releases from Bassbaba Sumon:
+- **Boyosh Holo Amar**: A deeply reflective personal ballad examining time and mortality.
+- **Oniyomer Golpo**: A hard-hitting narrative track powered by intricate bass grooves.
+- **Purano Shei Diner Kotha**: A poignant acoustic re-imagination honoring tradition and timeless memories.
+
+### 🎵 Tracklist (One-Tap Download)
 
 - [**Bassbaba Sumon - Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
 - [**Bassbaba Sumon - Oniyomer Golpo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true)
