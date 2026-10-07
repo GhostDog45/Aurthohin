@@ -476,12 +476,12 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 ---
 
 <a id="13-boka-manushta-2007"></a>
-## 13. Boka Manushta (বোকা মানুষটা) (2007)
+## 13. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/8e18a290bb41cd2fb7b8e53dafb5c7ada196f929/Bassbaba%20Sumon/Boka%20Manushta)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
 - **Record Label:** G-Series
-- **Archive Repository:** [GhostDog45/Mixed-Albums](https://github.com/GhostDog45/Mixed-Albums#3-boka-manushta-2007)
+- **Archive Repository:** 
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
