@@ -28,10 +28,11 @@
 
 ### 👑 Bassbaba Sumon Discography
 11. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#11-sumon-o-aurthohin-1997)
-12. [Megher Deshe (মেঘের দেশে) (2005)](#12-megher-deshe-2005)
-13. [Boka Manushta (বোকা মানুষটা) (2007)](#13-boka-manushta-2007)
-14. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#14-ekhon-ami-2007)
-15. [Bassbaba Sumon — Standalone Solo Singles](#15-bassbaba-sumon--standalone-solo-singles)
+12. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](#12-shopnogulo-tomar-moto-2002)
+13. [Megher Deshe (মেঘের দেশে) (2005)](#13-megher-deshe-2005)
+14. [Boka Manushta (বোকা মানুষটা) (2007)](#14-boka-manushta-2007)
+15. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#15-ekhon-ami-2007)
+16. [Bassbaba Sumon — Standalone Solo Singles](#16-bassbaba-sumon--standalone-solo-singles)
 
 ---
 
@@ -426,8 +427,47 @@ Released in 1997 before the formal establishment of the band Aurthohin, *Sumon O
 
 ---
 
-<a id="12-megher-deshe-2005"></a>
-## 12. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Megher%20Deshe)
+<a id="12-shopnogulo-tomar-moto-2002"></a>
+## 12. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto)
+
+- **Artist:** Bassbaba Sumon (অর্থহীন এর সুমন)
+- **Release Year:** 2002
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (24-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BFront%5D.jpg" width="300" alt="Shopnogulo Tomar Moto Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2002 by G-Series under the moniker *"Aurthohin Er Sumon"*, *Shopnogulo Tomar Moto* ("Dreams Like Yours") is a deeply poignant solo milestone dedicated in loving memory of Aurthohin's late guitarist Rupok. Written, arranged, recorded, and mixed in an intense six days at Studio Bass with Iqbal Asif Jewel, the album captures raw grief, soaring melodies, and poetic reflection across legendary tracks including *"Rupoker Gaan"*, *"Shopnogulo Tomar Moto"*, *"Adhare"*, and *"Osthirota"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Osthirota**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Osthirota.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Osthirota.flac?download=true)
+- [**Adhare**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Adhare.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Adhare.flac?download=true)
+- [**Rupoker Gaan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Rupoker%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Rupoker%20Gaan.flac?download=true)
+- [**Onneshon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Onneshon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Onneshon.flac?download=true)
+- [**Shopnogulo Tomar Moto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Shopnogulo%20Tomar%20Moto.flac?download=true)
+- [**Hisebe Bhul Chhilo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Hisebe%20Bhul%20Chhilo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Hisebe%20Bhul%20Chhilo.flac?download=true)
+- [**Kannar Rong**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Kannar%20Rong.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Kannar%20Rong.flac?download=true)
+- [**Alor Michile**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Alor%20Michile.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Alor%20Michile.flac?download=true)
+- [**Ei Poth**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Ei%20Poth.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Ei%20Poth.flac?download=true)
+- [**Hotash Hridoy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Hotash%20Hridoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Bassbaba%20Sumon%20-%20Hotash%20Hridoy.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Shopnogulo%20Tomar%20Moto/Album%20Cover/Shopnogulo%20Tomar%20Moto%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
+
+---
+
+<a id="13-megher-deshe-2005"></a>
+## 13. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Megher%20Deshe)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2005
@@ -465,8 +505,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="13-boka-manushta-2007"></a>
-## 13. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Boka%20Manushta)
+<a id="14-boka-manushta-2007"></a>
+## 14. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Boka%20Manushta)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
@@ -510,8 +550,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="14-ekhon-ami-2007"></a>
-## 14. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Ekhon%20Ami)
+<a id="15-ekhon-ami-2007"></a>
+## 15. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Ekhon%20Ami)
 
 - **Artists:** Bassbaba Sumon & Anila Naz Chowdhury
 - **Release Year:** 2007
@@ -549,8 +589,8 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 
 ---
 
-<a id="15-bassbaba-sumon--standalone-solo-singles"></a>
-## 15. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon)
+<a id="16-bassbaba-sumon--standalone-solo-singles"></a>
+## 16. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon)
 
 - **Artist:** Bassbaba Sumon
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
